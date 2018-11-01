@@ -1,7 +1,7 @@
 # Metaphone-Leverage
 
 ## Notice
-When you upload the files, you need to choose .csv files in root directory. Because the former files are UTF-8-BOM encoding, which is not supported by JavaCsv library. If you still want to use the former files, the results won't show the id column. 
+When you upload the files, you need to choose .csv files in root directory. Because the former files are UTF-8-BOM encoding, which is not supported by Javacsv library. If you still want to use the former files, the results won't show the id column. 
 
 
 
